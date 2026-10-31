@@ -1,28 +1,40 @@
 # Axioma — Inteligência de Mercado
 
-**Categoria:** inteligência comercial · engenharia de dados · geointeligência  
-**Status:** solução aplicada
+**Categoria:** inteligência comercial · engenharia de dados · geointeligência · automação  
+**Status:** solução aplicada a processos reais
 
-## Desafio
+## Visão estratégica
 
-Mapear oportunidades, higienizar grandes listas comerciais e distribuir informações qualificadas para apoiar prospecção e manutenção de relacionamentos.
+O Axioma estrutura a passagem de dados brutos para oportunidades comerciais qualificadas. O foco não é apenas produzir listas, mas estabelecer critérios, rastreabilidade e distribuição adequada para apoiar prospecção e manutenção de relacionamentos.
 
-## Solução
+## Problema de negócio
 
-Motor de inteligência estratégica com radar de novas empresas, tratamento automatizado de dados, segmentação territorial, geointeligência e suporte a fluxos comerciais.
+Bases comerciais acumulam duplicidades, registros desatualizados e empresas sem aderência ao público desejado. Sem governança, equipes desperdiçam esforço e perdem confiança nos dados.
+
+## Solução evidenciada no projeto
+
+O material documenta:
+
+- radar de novas empresas e oportunidades;
+- higienização de listas e exclusão controlada de registros já atendidos;
+- cruzamentos automatizados e qualificação por regras;
+- segmentação territorial e dashboards geoeconômicos;
+- distribuição de oportunidades para áreas comerciais;
+- automação de rotinas periódicas;
+- operação orientada por procedimentos e documentos normativos.
 
 ## Atuação de Maycon Bentes
 
-- estruturação das necessidades de inteligência de mercado;
+- estruturação do processo de inteligência de mercado;
 - definição dos critérios de qualificação e segmentação;
 - desenho dos fluxos de tratamento e distribuição;
-- coordenação da automação;
+- coordenação das automações e dos indicadores;
 - alinhamento entre dados, processos e objetivos comerciais.
 
-## Valor demonstrado
+## Valor profissional demonstrado
 
-Inteligência de mercado, qualidade de dados, automação, segmentação, geointeligência e desenvolvimento de processos orientados por evidências.
+Qualidade de dados, inteligência comercial, geointeligência, desenho de processos, automação e governança operacional.
 
 ## Confidencialidade
 
-A organização, documentos normativos, bases comerciais e regras internas de operação permanecem reservados.
+A organização atendida, documentos internos, bases comerciais e regras específicas de operação permanecem reservados.
