@@ -1,52 +1,66 @@
-# Portfólio de Estudos de Caso — Maycon Bentes
+# Portfólio Estratégico — Maycon Bentes
 
 **Inteligência de Mercado · Business Intelligence · Estratégia de Produto · Soluções Tecnológicas**
 
-Seleção criteriosa de projetos com aplicação real, maturidade demonstrável e relevância profissional. As apresentações priorizam o problema resolvido, o valor de negócio e a atuação de Maycon Bentes, sem publicar código-fonte ou informações confidenciais.
+Esta vitrine apresenta estrategicamente os **20 projetos privados preservados** no GitHub de Maycon Bentes, além do CLICS, conduzido fora desse conjunto de repositórios. Os projetos são organizados por maturidade e finalidade para demonstrar amplitude sem confundir versões principais, experimentais e legadas.
 
-## Projetos selecionados
+## Produtos e soluções principais
 
-| Projeto | Desafio central | Competências evidenciadas |
+| Projeto | Aplicação estratégica | Competências |
 |---|---|---|
-| [Norte Achou](estudos-de-caso/norte-achou.md) | Dar visibilidade digital a negócios locais | Produto, SEO local e estratégia comercial |
-| [CLICS](estudos-de-caso/clics.md) | Retomar e reposicionar uma plataforma B2B/B2G | Coordenação, consultoria e análise de negócios |
-| [Calculadora Estratégica de Orçamentos](estudos-de-caso/calculadora-orcamentos.md) | Formar preços com margem e controle de risco | BI, pricing e apoio à decisão |
-| [Ecossistema de Inteligência de Dados](estudos-de-caso/ecossistema-inteligencia-dados.md) | Transformar dados dispersos em previsão e decisão | Forecasting, indicadores e análise estratégica |
-| [Axioma — Inteligência de Mercado](estudos-de-caso/axioma-inteligencia-mercado.md) | Qualificar e distribuir oportunidades comerciais | Engenharia de dados, automação e geointeligência |
-| [Análise de Preços de Combustíveis](estudos-de-caso/analise-precos-combustiveis.md) | Interpretar referências, custos e margens | Pricing e inteligência econômica |
-| [Axioma People Analytics](estudos-de-caso/axioma-people-analytics.md) | Organizar avaliações para desenvolvimento de pessoas | People Analytics e produto de RH |
-| [NF Guard](estudos-de-caso/nf-guard.md) | Controlar retiradas por NF-e em múltiplas unidades | ERP, rastreabilidade e segurança |
-| [Plataforma de Gestão da Qualidade](estudos-de-caso/gestao-qualidade.md) | Digitalizar processos, evidências e indicadores | Gestão, governança e implantação |
-| [Player de Conteúdo para Condomínios](estudos-de-caso/player-condominios.md) | Operar mídia sincronizada em dispositivos distribuídos | CMS, resiliência e gestão remota |
+| [Norte Achou](estudos-de-caso/norte-achou.md) | Descoberta comercial, ofertas e afiliados | Produto, SEO local e estratégia comercial |
+| [Calculadora Estratégica de Orçamentos](estudos-de-caso/calculadora-orcamentos.md) | Precificação, margens e pipeline | BI, pricing e apoio à decisão |
+| [Ecossistema de Inteligência de Dados](estudos-de-caso/ecossistema-inteligencia-dados.md) | KPIs, forecasting e cenários | Análise estratégica e governança analítica |
+| [Axioma — Inteligência de Mercado](estudos-de-caso/axioma-inteligencia-mercado.md) | Qualificação de oportunidades | Dados, automação e geointeligência |
+| [Inteligência de Preços de Combustíveis](estudos-de-caso/analise-precos-combustiveis.md) | PPI, custos, margens e tendências | Pricing e análise econômica |
+| [Axioma People Analytics](estudos-de-caso/axioma-people-analytics.md) | Prontidão para IA e desenvolvimento | People Analytics e produto |
+| [NF Guard](estudos-de-caso/nf-guard.md) | NF-e, WMS e rastreabilidade | ERP, segurança e operações |
+| [Plataforma de Gestão da Qualidade](estudos-de-caso/gestao-qualidade.md) | Auditorias, indicadores e ações corretivas | SGQ, governança e implantação |
+| [Plataforma de Conteúdo para Condomínios](estudos-de-caso/player-condominios.md) | CMS e players distribuídos | Resiliência, testes e gestão remota |
+| [Inteligência em Licitações](estudos-de-caso/inteligencia-licitacoes.md) | Triagem, scoring e documentos | Compras públicas e automação |
+| [Amazonas Participativa](estudos-de-caso/amazonas-participativa.md) | Demandas urbanas e inteligência territorial | Civic tech, LGPD e governança |
 
-## Critérios de seleção
+## Soluções aplicadas e institucionais
 
-Somente foram mantidos projetos que apresentam:
+| Projeto | Aplicação estratégica | Competências |
+|---|---|---|
+| [Automação de CNPJ e Endereços](estudos-de-caso/automacao-cnpj-enderecos.md) | Enriquecimento cadastral em lote | APIs, Google Workspace e qualidade de dados |
+| [Análise de Desempenho de Lojas](estudos-de-caso/analise-desempenho-lojas.md) | KPIs e simulação comercial | BI, varejo e integração de dados |
+| [Portal Conciliação Amazonense Nº 3](estudos-de-caso/portal-conciliacao-amazonense.md) | Memória, formação e comunicação | Conteúdo, acesso e experiência institucional |
+| [Sistema Um Com Deus](estudos-de-caso/um-com-deus-gestao.md) | Membros, frequência, estoque e finanças | Gestão institucional e Firebase |
+| [Portal Corporativo e Aquisição Digital](estudos-de-caso/portal-corporativo-aquisicao.md) | Conteúdo, serviços e geração de leads | Marketing digital, SEO e automação |
 
-- problema de negócio identificável;
-- solução funcional ou protótipo consistente;
-- competências profissionais diferenciadas;
-- aplicação prática ou potencial comercial verificável;
-- possibilidade de apresentação sem comprometer terceiros.
+## Evolução da plataforma empresarial
 
-Repositórios vazios, exercícios, duplicações, versões antigas e iniciativas ainda restritas ao planejamento não integram esta seleção.
+Estes quatro repositórios registram etapas distintas da mesma linha de aprendizado. Eles são apresentados como evolução, e não como quatro produtos independentes.
+
+| Etapa | Papel na evolução |
+|---|---|
+| [Protótipo inicial](estudos-de-caso/bi-empresarial-prototipo-inicial.md) | Primeira validação de BI, autenticação e permissões |
+| [Arquitetura Firebase](estudos-de-caso/bi-empresarial-firebase.md) | Persistência em tempo real, segurança e IA |
+| [Plataforma empresarial modular](estudos-de-caso/plataforma-empresarial-modular.md) | CRM, compras, estoque, financeiro e operações |
+| [Base Supabase](estudos-de-caso/plataforma-empresarial-supabase.md) | Consolidação relacional e principal referência atual |
+
+## Projeto adicional coordenado
+
+### [CLICS](estudos-de-caso/clics.md)
+
+Projeto B2B/B2G retomado em março de 2026 após aproximadamente três anos de paralisação. Maycon Bentes atua como orientador, consultor com visão empreendedora e coordenador; o desenvolvimento técnico é realizado pela equipe.
+
+## Critérios de apresentação
+
+Cada estudo identifica:
+
+- problema de negócio;
+- solução e capacidades comprovadas pelo material do projeto;
+- maturidade real;
+- valor profissional;
+- classificação como principal, experimental ou legado;
+- limites de confidencialidade.
 
 ## Proteção das informações
 
-Os estudos de caso usam nomes genéricos quando necessário e não revelam:
-
-- código-fonte ou arquitetura interna detalhada;
-- organizações e clientes protegidos por confidencialidade;
-- dados pessoais, comerciais ou financeiros;
-- credenciais, chaves ou variáveis de ambiente;
-- contratos, fórmulas proprietárias e parâmetros operacionais;
-- informações que comprometam segurança ou propriedade intelectual.
-
-## Posicionamento profissional
-
-Maycon Bentes atua conectando dados, estratégia, processos e tecnologia para transformar problemas reais em soluções aplicáveis. Sua contribuição envolve concepção, inteligência de mercado, análise de negócios, planejamento, coordenação e evolução de produtos.
-
-> Quando a implementação técnica é realizada por equipe, essa responsabilidade é indicada no respectivo estudo de caso.
+A vitrine não publica código privado, credenciais, dados pessoais, bases comerciais, documentos fiscais, contratos, parâmetros proprietários ou detalhes que comprometam segurança e propriedade intelectual.
 
 ## Contato
 
