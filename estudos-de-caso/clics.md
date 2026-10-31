@@ -1,30 +1,36 @@
 # CLICS
 
-**Categoria:** plataforma B2B e B2G · estratégia de negócios · coordenação  
-**Status:** retomada e evolução estratégica
+**Categoria:** plataforma B2B/B2G · inteligência comercial · coordenação de produto  
+**Status:** retomada e evolução estratégica desde março de 2026
 
-## Contexto
+## Visão estratégica
 
-O projeto permaneceu paralisado por aproximadamente três anos. Em março de 2026, Maycon Bentes assumiu sua condução estratégica para apoiar a retomada e a reorganização da iniciativa.
+O CLICS é uma iniciativa voltada à conexão entre necessidades de compra e oportunidades de fornecimento nos mercados empresarial e governamental. A proposta articula informação comercial, relacionamento e tecnologia para reduzir a distância entre compradores e potenciais fornecedores.
 
-## Proposta
+## Desafio de gestão
 
-O CLICS busca aproximar necessidades de compra e oportunidades de fornecimento em contextos empresariais e governamentais, conectando visão comercial, organização de informações e tecnologia.
+Após aproximadamente três anos de paralisação, o projeto precisava recuperar direção, organizar prioridades e reconstruir uma visão viável de produto e negócio.
+
+## Trabalho conduzido
+
+A retomada envolve:
+
+- revisão da proposta de valor;
+- organização das frentes de evolução;
+- alinhamento entre necessidades de mercado e produto;
+- direcionamento comercial e empreendedor;
+- coordenação entre responsáveis pelo negócio e equipe técnica.
 
 ## Atuação de Maycon Bentes
 
-- orientação e coordenação do projeto;
-- consultoria com visão empreendedora;
-- direcionamento estratégico do produto;
-- articulação entre necessidades de negócio e evolução da solução;
-- apoio ao posicionamento e à retomada operacional.
+Maycon Bentes assumiu a condução do projeto como orientador, consultor com visão empreendedora e coordenador. Sua responsabilidade concentra-se em estratégia, organização, posicionamento e direcionamento da evolução.
 
 > O desenvolvimento técnico é realizado pela equipe. Esta apresentação não atribui a Maycon Bentes autoria do código ou implementação técnica direta.
 
-## Competências demonstradas
+## Valor profissional demonstrado
 
-Coordenação de projetos, inteligência de mercado, análise de negócios, visão empreendedora, produtos B2B/B2G e transformação digital.
+Recuperação de projetos, coordenação multidisciplinar, inteligência de mercado, análise de negócios, visão B2B/B2G e transformação de uma iniciativa paralisada em uma agenda estruturada de evolução.
 
 ## Confidencialidade
 
-Código, arquitetura interna, dados comerciais, contratos e informações operacionais permanecem privados.
+Código, arquitetura, contratos, dados comerciais e informações operacionais permanecem privados.
