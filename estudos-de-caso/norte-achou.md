@@ -1,29 +1,42 @@
 # Norte Achou
 
-**Categoria:** plataforma digital · descoberta comercial · SEO local  
+**Categoria:** marketplace de descoberta · SEO local · afiliados · produto digital  
 **Base inicial:** Manaus, Amazonas  
-**Status:** desenvolvimento e validação comercial
+**Status:** produto em produção e evolução
 
-## Contexto
+## Visão estratégica
 
-Pequenos negócios locais enfrentam dificuldade para conquistar visibilidade digital e alcançar consumidores com intenção real de compra em sua região.
+O Norte Achou combina descoberta de negócios locais, ofertas e catálogo de afiliados em uma experiência orientada à intenção de compra. A proposta parte de Manaus e utiliza organização geográfica, categorias e conteúdo pesquisável para aproximar consumidores e empresas.
 
-## Proposta
+## Problema de negócio
 
-O Norte Achou é uma plataforma de divulgação e descoberta de empresas, produtos e serviços. A iniciativa parte de Manaus e foi planejada para crescer por páginas geográficas, categorias e intenções de busca.
+Pequenos negócios têm baixa visibilidade digital, enquanto consumidores encontram ofertas dispersas e pouco contextualizadas para sua região. O desafio é organizar essa oferta com confiança, escala editorial e caminhos mensuráveis de conversão.
+
+## Solução evidenciada no projeto
+
+O material do repositório documenta:
+
+- aplicação em produção com domínio próprio;
+- catálogo, cupons e ofertas locais sustentados por PostgreSQL;
+- painel administrativo autenticado;
+- APIs para produtos, ofertas, cupons e mensuração de cliques;
+- importação controlada de produtos e preservação de links de afiliados;
+- experiência mobile-first, PWA e projeto Android por Trusted Web Activity;
+- rotinas de homologação, backup, verificação de credenciais e publicação;
+- estrutura de SEO e dados voltada à expansão regional.
 
 ## Atuação de Maycon Bentes
 
-- direção estratégica do produto;
+- direção estratégica e definição do modelo de produto;
 - inteligência de mercado e planejamento de expansão;
-- definição da estratégia comercial;
-- posicionamento, marketing e aquisição de parceiros;
-- coordenação da evolução da plataforma.
+- estratégia comercial, afiliados e aquisição de parceiros;
+- priorização das funcionalidades e critérios de qualidade;
+- coordenação da evolução tecnológica e validação operacional.
 
-## Competências demonstradas
+## Valor profissional demonstrado
 
-Inteligência de mercado, SEO local, estratégia de produto, planejamento comercial, análise de oportunidades e transformação digital.
+Estratégia de produto, SEO local, marketplace, monetização por afiliados, governança de catálogo, experiência mobile e coordenação de uma solução em produção.
 
 ## Confidencialidade
 
-Esta apresentação não contém código-fonte, dados de usuários, métricas comerciais restritas, credenciais ou detalhes internos de infraestrutura.
+Não são publicados dados de usuários, métricas comerciais reservadas, credenciais, regras antifraude ou detalhes internos de infraestrutura.
