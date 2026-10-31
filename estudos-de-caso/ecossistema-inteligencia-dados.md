@@ -1,28 +1,41 @@
 # Ecossistema de Inteligência de Dados
 
-**Categoria:** Business Intelligence · forecasting · análise estratégica  
-**Status:** solução funcional
+**Categoria:** Business Intelligence · forecasting · portfólio · governança analítica  
+**Status:** hub analítico funcional
 
-## Desafio
+## Visão estratégica
 
-Consolidar dados comerciais dispersos e transformá-los em indicadores, previsões e análises úteis para decisões gerenciais.
+O projeto organiza dados comerciais e financeiros em um núcleo de inteligência capaz de descrever o desempenho, projetar cenários e alertar sobre interpretações potencialmente enviesadas.
 
-## Solução
+## Problema de negócio
 
-Hub de inteligência com painéis executivos, previsão por séries temporais, matriz de portfólio, simulação de cenários e mecanismos de identificação de vieses analíticos.
+Dados dispersos e indicadores isolados dificultam a leitura de metas, receita, inadimplência, concentração de portfólio e tendências futuras.
+
+## Solução evidenciada no projeto
+
+O hub documenta:
+
+- limpeza de dados, tratamento de ausências e controle de outliers;
+- KPIs de receita, metas, variação mensal e inadimplência;
+- forecasting por ARIMA, médias móveis e tendência;
+- intervalos de confiança, testes de estacionariedade e avaliação por AIC;
+- classificação de portfólio pela matriz BCG;
+- alertas para vieses de sobrevivência, seleção e recência;
+- simulador de cenários com comparação de impacto;
+- dashboard interativo em Streamlit e documentação formal das fórmulas.
 
 ## Atuação de Maycon Bentes
 
-- concepção do ecossistema de análise;
-- definição de indicadores e perguntas estratégicas;
-- organização das fontes de dados;
+- concepção do ecossistema e das perguntas estratégicas;
+- definição dos indicadores e critérios de análise;
+- organização das fontes e regras de qualidade;
 - coordenação da evolução do produto;
-- tradução das análises em recomendações de negócio.
+- tradução dos achados em recomendações para decisão.
 
-## Valor demonstrado
+## Valor profissional demonstrado
 
-Forecasting, indicadores gerenciais, análise de portfólio, simulação de cenários, governança analítica e comunicação executiva.
+Forecasting, BI executivo, análise de portfólio, cenários, qualidade de dados, pensamento crítico e comunicação gerencial.
 
 ## Confidencialidade
 
-Nomes de clientes, valores financeiros, bases originais e parâmetros internos foram omitidos.
+Identidades organizacionais, bases originais, valores financeiros e parâmetros internos foram anonimizados ou omitidos.
