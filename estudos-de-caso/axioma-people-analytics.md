@@ -1,28 +1,45 @@
 # Axioma People Analytics
 
-**Categoria:** People Analytics · avaliação · produto de RH  
-**Status:** protótipo funcional
+**Categoria:** People Analytics · prontidão para IA · desenvolvimento profissional  
+**Status:** protótipo funcional em validação conceitual
 
-## Desafio
+## Visão estratégica
 
-Transformar avaliações profissionais e comportamentais em informações organizadas, comparáveis e úteis ao desenvolvimento de pessoas.
+O Axioma People Analytics explora como competências humanas, adoção tecnológica e contexto setorial podem ser organizados em uma experiência de diagnóstico e desenvolvimento profissional.
 
-## Solução
+## Problema de negócio
 
-Experiência digital de avaliação e apresentação de resultados, acompanhada por estudos de produto e materiais de posicionamento.
+A adoção de inteligência artificial avança mais rapidamente do que a capacidade de muitas organizações para avaliar competências, visão estratégica, sobrecarga de automação e prontidão das pessoas.
+
+## Solução evidenciada no projeto
+
+O repositório contém:
+
+- jornada digital de avaliação;
+- painéis individuais, empresariais e administrativos;
+- mapa de desenvolvimento e narrativas visuais;
+- análise de prontidão e riscos relacionados à automação;
+- segmentação contextual por setores;
+- geração de relatórios em PDF;
+- captação de interessados e estrutura de planos do produto;
+- componentes React e TypeScript organizados para evolução.
 
 ## Atuação de Maycon Bentes
 
-- concepção e direcionamento do produto;
-- organização dos requisitos de avaliação;
-- estruturação da experiência de uso;
+- concepção e posicionamento do produto;
+- organização das dimensões avaliadas;
+- definição da experiência e dos resultados apresentados;
 - coordenação dos estudos e protótipos;
-- posicionamento da solução.
+- direcionamento da proposta comercial.
 
-## Valor demonstrado
+## Valor profissional demonstrado
 
-People Analytics, produto digital, organização de indicadores, experiência do usuário e comunicação de resultados.
+People Analytics, pesquisa aplicada, produto digital, visualização de diagnósticos, experiência do usuário e posicionamento de solução.
+
+## Limite metodológico
+
+Os indicadores permanecem em validação conceitual e não são apresentados como teste psicológico, diagnóstico clínico ou instrumento cientificamente certificado.
 
 ## Confidencialidade
 
-Não são divulgados avaliações individuais, dados pessoais, critérios proprietários ou informações de organizações.
+Avaliações individuais, dados pessoais, critérios proprietários e informações organizacionais não são divulgados.
